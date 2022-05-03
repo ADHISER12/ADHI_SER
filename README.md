@@ -5,7 +5,7 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/aqjv8k9.jpeg" width="300" height="300"/>
+  <img border-radius: 15px src="https://i.imgur.com/TqNz1lI.jpeg" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="ADHI_SER" src="https://img.shields.io/badge/Niyamwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
