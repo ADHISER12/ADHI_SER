@@ -1,13 +1,13 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+NIYAMWOL+WA+BOT+REPO.;CREATED+BY+NASIF+ANSHID;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+ADHI_SER+WA+BOT+REPO.;CREATED+BY+ADHI_SER+;)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/TqNz1lI.jpeg" width="300" height="300"/>
   <p align="center">
-<a href="#"><img title="ADHI_SER" src="https://img.shields.io/badge/Niyamwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ADHI_SER" src="https://img.shields.io/badge/ADHI_SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Blackmaac"><img title="Author" src="https://img.shields.io/badge/Author-Blackmaac/Niyamwol-v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
