@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+ADHI_SER+WA+BOT+REPO.;CREATED+BY+ADHI_SER+;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+ADHI_SER+WA+BOT+REPO.;CREATED+BY+ADHI_SER+APPU;)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -10,7 +10,7 @@
 <a href="#"><img title="ADHI_SER" src="https://img.shields.io/badge/ADHI_SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Blackmaac"><img title="Author" src="https://img.shields.io/badge/Author-Blackmaac/Niyamwol-v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Blackmaac"><img title="Author" src="https://img.shields.io/badge/Author-ADHISER12/ADHI_SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -26,9 +26,9 @@ Project created by <a href="https://github.com/Blackmaac">Blackmaac</a> to make 
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AXN4QR/NIYA-MWOL-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AXN4QR/ADHI_SER-QR?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ADHISER12/ADHI_SER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Blackmaac/ADHI_SER)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -45,9 +45,9 @@ bash <(curl -L https://t.ly/tHxh)
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/ADHISER12/ADHI_SER/fork)
+ Click [FORK](https://github.com/https://github.com/ADHISER12/ADHI_SER-/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/ADHISER12/ADHI_SER copy this url and change Blackmaac with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://https://github.com/ADHISER12/ADHI_SERcopy this url and change Blackmaac with your github username and click go<br>
 
 ----
 
@@ -57,17 +57,17 @@ bash <(curl -L https://t.ly/tHxh)
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
-<a href="https://youtube.com/shorts/8Ge07xQCLVo?feature=share" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/shorts/8Ge07xQCLVo?" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
 
   <p align="center">
   <a href="https://github.com/ADHISER12/ADHI_SER">
-    <img src="https://img.shields.io/github/repo-size/Blackmaac/ADHI_SER-v2?color=Magenta&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/Blackmaac/ADHI_SER?color=Magenta&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Blackmaac/followers"><img title="Followers" src="https://img.shields.io/github/followers/Blackmaac?color=Magenta&style=flat-square"></a>
-<a href="https://github.com/Blackmaac/ADHI_SER-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Blackmaac/ADHI_SER-v2?color=Magenta&style=flat-square"></a>
-<a href="https://github.com/Blackmaac/ADHI_SER-v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Blackmaac/ADHI_SER-v2?color=Magenta&style=flat-square"></a>
-<a href="https://github.com/Blackmaac/ADHI_SER-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Blackmaac/ADHI_SER-v2?label=Watchers&color=Magenta&style=flat-square"></a>
+<a href="https://github.com/ADHISER12/followers"><img title="Followers" src="https://img.shields.io/github/followers/Blackmaac?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/ADHISER12/ADHI_SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Blackmaac/ADHI_SIR?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/ADHISER12/ADHI_SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Blackmaac/ADHI_SER?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/ADHISER12/ADHI_SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Blackmaac/ADHI_SER?label=Watchers&color=Magenta&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-Magenta.svg"</a>
 </p>
 
@@ -86,7 +86,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ADHISER12/ADHI_SER
+$ git clone https://github.com/Blackmaac/ADHI_SER
 $ cd Niya
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -96,7 +96,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ADHISER12/ADHI_SER
+$ git clone https://github.com/Blackmaac/ADHI_SER
 $ cd Niya
 $ chmod +x *
 $ npm i
@@ -117,9 +117,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Blackmaac`](https://github.com/Blackmaac.png?size=200)](https://github.com/Blackmaac)
+  [![`Blackmaac`](https://github.com/ADHISER12.png?size=200)](https://github.com/ADHISER12)
 
-[`Blackmaac`](https://github.com/Blackmaac)  
+[`Blackmaac`](https://github.com/ADHISER12)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
